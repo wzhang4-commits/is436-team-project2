@@ -29,3 +29,6 @@ The system models a user logging into foosball.com with the following actions:
 - Display Error Message (if invalid)  
 - Grant Access (if valid)
 
+## Submission Links
+- Repository URL: https://github.com/wzhang4-commits/is436-team-project2.git   
+- Project Board URL: https://github.com/users/wzhang4-commits/projects/2/views/1
